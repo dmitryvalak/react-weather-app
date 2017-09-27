@@ -4,7 +4,8 @@
   "description": "React BoilerPlate",
   "author": "Dmitry Valak",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "devDependencies": {
     "babel-core": "^6.5.1",
